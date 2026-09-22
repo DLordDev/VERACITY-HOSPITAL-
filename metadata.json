@@ -1,0 +1,6 @@
+{
+  "name": "Veracity Hospital",
+  "description": "Veracity Hospital official website with integrated Veracity AI floating chat assistant, emergency hotline, services, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
